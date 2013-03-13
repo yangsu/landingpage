@@ -18,7 +18,7 @@ body {
   padding: 10px 10px;
   margin-top: 5px;
   margin-left: 5px;
-  linear-gradient(to bottom right, #a1e048, #6a942f);
+  background-color: #68F;
 }
 
 .box a {
